@@ -12,6 +12,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/vue-fontawesome": "^2.0.10",
+    "@babel/plugin-syntax-dynamic-import": "^7.27.1"
     "axios": "^1.6.0",
     "buefy": "^0.9.25",
     "chart.js": "^2.9.4",

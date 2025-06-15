@@ -3,8 +3,3 @@ module.exports = {
     '@vue/cli-plugin-babel/preset'
   ]
 }
-
-{
-  "plugins": ["@babel/plugin-syntax-import-attributes"]
-  "plugins": ["@babel/plugin-transform-json-modules"]
-}

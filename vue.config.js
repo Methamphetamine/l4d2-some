@@ -3,7 +3,7 @@ module.exports = {
     devServer: {
         proxy: {
             '^/api': {
-                target: 'http://localhost:8081'
+                target: 'https://left4dead2-stats.netlify.app'
             }
         }
     },
